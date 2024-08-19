@@ -1,0 +1,63 @@
+[
+    {
+        "id": "0",
+        "name": "Cochamolles",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    },
+    {
+        "id": "1",
+        "name": "T1",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    },
+    {
+        "id": "2",
+        "name": "T2",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    },
+    {
+        "id": "3",
+        "name": "T3",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    },
+    {
+        "id": "4",
+        "name": "T4",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    },
+    {
+        "id": "5",
+        "name": "T5",
+        "rallado": false,
+        "materiaPrima": {
+            "scott": false,
+            "rendimientoJugo": false
+        },
+        "detalle": ""
+    }
+    
+]
